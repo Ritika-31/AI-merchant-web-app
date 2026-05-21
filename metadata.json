@@ -1,0 +1,6 @@
+{
+  "name": "Merchant Pay",
+  "description": "A specialized Merchant portal featuring login, unified VPA analytics dashboard, transaction reports, QR code management, profile viewer, and dynamic support ticketing system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
